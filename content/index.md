@@ -1,8 +1,5 @@
 ---
-title: Welcome to Quartz
+title: ここはなに？
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-test
+これは甘瀬ここあが置いているデジタルガーデンです。メモとか、独り言を書いておきます。
